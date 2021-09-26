@@ -1,3 +1,10 @@
+@media(max-width:414px){
+  .quantity-form form {
+      position: relative !important;
+      width: 180px;
+  }
+}
+
 @media(min-width:415px) and (max-width:575px) {
     .feature-slider .slick-slide {
         min-height: 358px;
